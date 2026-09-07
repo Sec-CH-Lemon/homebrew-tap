@@ -3,7 +3,6 @@
 class TlsForge < Formula
   desc "Scraping HTTP client that sends a real browser's TLS fingerprint"
   homepage "https://github.com/Sec-CH-Lemon/tls-forge"
-  version "0.1.0"
   license "Apache-2.0"
 
   on_macos do
