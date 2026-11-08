@@ -7,23 +7,23 @@ class TlsForge < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v0.2.2/tls-forge_0.2.2_darwin_arm64.tar.gz"
-      sha256 "64079e17f9aafec879a766ee2a2e114ad08fc930db8300cac4ba1e48f88e92f9"
+      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v1.0.1/tls-forge_1.0.1_darwin_arm64.tar.gz"
+      sha256 "a01e996ea60d7d68e5091462fa74f210129634f5b6367fa8a0eabc46a34d1b3a"
     end
     on_intel do
-      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v0.2.2/tls-forge_0.2.2_darwin_amd64.tar.gz"
-      sha256 "84c49d039502f8766d3baac1d36a4db15df58325edf3579685ad2f2c6256e386"
+      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v1.0.1/tls-forge_1.0.1_darwin_amd64.tar.gz"
+      sha256 "fde63d212a42ed30061b998162627d5770562914f0119929157d14a500cd773d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v0.2.2/tls-forge_0.2.2_linux_arm64.tar.gz"
-      sha256 "55365c2e4385b1eb78ba843b3b7da47aefe390a98e3122dfbc78e49d6e912f4d"
+      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v1.0.1/tls-forge_1.0.1_linux_arm64.tar.gz"
+      sha256 "9f745b9e4d3f2b73823cc50f11bb221bd76c3669fb322461bc01d78f82a12539"
     end
     on_intel do
-      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v0.2.2/tls-forge_0.2.2_linux_amd64.tar.gz"
-      sha256 "1c6d5cca09eaa8882b64b61a87ceb918987a8dc74dc9444f340cb0890e3b344a"
+      url "https://github.com/Sec-CH-Lemon/tls-forge/releases/download/v1.0.1/tls-forge_1.0.1_linux_amd64.tar.gz"
+      sha256 "47dcfb46c2e27940e1a2347d1101907e36790f4d2602a20c54b2a39eab3987ee"
     end
   end
 
